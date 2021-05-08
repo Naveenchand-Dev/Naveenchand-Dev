@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenchand-dev" alt="naveenchand-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/naveenchand" target="blank"><img src="https://img.shields.io/twitter/follow/naveenchand?logo=twitter&style=for-the-badge" alt="naveenchand" /></a> </p>
+<p align="left"> <a href="https://twitter.com/naveenchand0606" target="blank"><img src="https://img.shields.io/twitter/follow/naveenchand?logo=twitter&style=for-the-badge" alt="naveenchand" /></a> </p>
 
 - 💬 Ask me about **Python, Flutter**
 
